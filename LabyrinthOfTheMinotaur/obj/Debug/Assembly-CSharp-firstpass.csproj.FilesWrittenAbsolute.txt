@@ -1,0 +1,17 @@
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEditor.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.UI.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/UnityEngine.VR.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Unity.DataContract.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Mono.Cecil.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Unity.CecilTools.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/atomic/Documents/IT/Unity/LabyrinthOfTheMinotaur/Temp/bin/Debug/Mono.Cecil.Mdb.dll
